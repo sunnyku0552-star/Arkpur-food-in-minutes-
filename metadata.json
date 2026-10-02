@@ -1,0 +1,6 @@
+{
+  "name": "ARKPUR FOOD IN MINUTES",
+  "description": "Production-ready food delivery platform with Customer App, Restaurant Partner, Delivery Partner, and Admin panels powered by a unified real-time engine and financial ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
